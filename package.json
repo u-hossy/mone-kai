@@ -1,0 +1,21 @@
+{
+  "name": "mone-kai",
+  "displayName": "Mone-kai",
+  "description": "Enhanced version of One Monokai Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mone-kai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mone-kai-color-theme.json"
+      }
+    ]
+  }
+}
