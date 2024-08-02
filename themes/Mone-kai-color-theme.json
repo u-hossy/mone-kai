@@ -51,7 +51,7 @@
 		"statusBar.noFolderBackground": "#21252B",
 		"statusBar.debuggingBackground": "#21252B",
 		"tab.activeBackground": "#383E4A",
-		"tab.activeBorder": "#e5c07b",
+		"tab.selectedBorderTop": "#e5c07b",
 		"tab.border": "#181A1F",
 		"tab.inactiveBackground": "#21252B",
 		"terminal.foreground": "#abb2bf",
